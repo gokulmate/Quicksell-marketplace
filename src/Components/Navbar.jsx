@@ -82,10 +82,8 @@ function Navbar() {
             className="px-4 py-2 border border-blue-900 rounded-md hover:bg-blue-100 transition"
           >
             All Categories
-          </button>          {/* ✅ DELETE PRODUCTS BUTTON */}
-          <Link to="/delete-products" className="px-4 py-2 bg-red-500 text-white rounded-md hover:bg-red-600 transition flex items-center gap-2">
-             Delete
-          </Link>
+          </button>       
+       
 
 
           <button
@@ -97,7 +95,7 @@ function Navbar() {
           <FaUserCircle
             size={28}
             className="cursor-pointer hover:text-blue-600 transition"
-            onClick={() => navigate("/profile")}
+            onClick={() => navigate("/login")}
           />
         </div>
 

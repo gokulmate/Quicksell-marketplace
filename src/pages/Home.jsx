@@ -354,7 +354,6 @@ export default function Home() {
         )}
 
         {/* FOOTER */}
-        <Footer />
       </div>
     </>
   );

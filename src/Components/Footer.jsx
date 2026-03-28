@@ -98,7 +98,7 @@ export default function Footer() {
 
       {/* Bottom Section */}
       <div className="bg-gray-800 text-gray-500 text-sm py-4 text-center">
-        © 2026 MyAdminPanel. All rights reserved.
+        © 2026 My E-market place website. All rights reserved.
       </div>
     </footer>
   );

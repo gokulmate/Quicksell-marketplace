@@ -30,7 +30,7 @@ function Login() {
     //  STEP 1 Admin check kara
     if (email === ADMIN.email && password === ADMIN.password) {
       localStorage.setItem("loggedUser", JSON.stringify(ADMIN));
-      navigate("/admin"); // admin dashboard la ja
+      navigate("/"); // admin dashboard la ja
       return;
     }
 
