@@ -1,0 +1,370 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S23",
+      "category": "mobile",
+      "price": 16999,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=400&q=50&fm=webp",
+      "features": {
+        "color": "Blue",
+        "storage": "256GB",
+        "battery": "3900mAh"
+      },
+      "seller": {
+        "name": "Amit",
+        "phone": "9999999999",
+        "email": "amit@gmail.com"
+      }
+    },
+    {
+      "id": "3",
+      "name": "OnePlus 11",
+      "category": "mobile",
+      "price": 15000,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=400&q=50&fm=webp",
+      "features": {
+        "color": "Green",
+        "storage": "128GB",
+        "battery": "5000mAh"
+      },
+      "seller": {
+        "name": "Suresh",
+        "phone": "8888888888",
+        "email": "suresh@gmail.com"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Realme GT",
+      "category": "mobile",
+      "price": 12000,
+      "rating": 4.3,
+      "image": "https://images.unsplash.com/photo-1603899122634-f086ca5f5ddd?w=400&q=50&fm=webp",
+      "features": {
+        "color": "Silver",
+        "storage": "128GB",
+        "battery": "4500mAh"
+      },
+      "seller": {
+        "name": "Vikas",
+        "phone": "7777777777",
+        "email": "vikas@gmail.com"
+      }
+    },
+    {
+      "id": "5",
+      "name": "MacBook Air",
+      "category": "laptop",
+      "price": 29999,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&q=50&fm=webp",
+      "features": {
+        "color": "Gray",
+        "storage": "256GB",
+        "battery": "18hrs"
+      },
+      "seller": {
+        "name": "Rohit",
+        "phone": "9123456780",
+        "email": "rohit@gmail.com"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Dell XPS 13",
+      "category": "laptop",
+      "price": 28899,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&q=50&fm=webp",
+      "features": {
+        "color": "Silver",
+        "storage": "512GB",
+        "battery": "12hrs"
+      },
+      "seller": {
+        "name": "Ajay",
+        "phone": "9012345678",
+        "email": "ajay@gmail.com"
+      }
+    },
+    {
+      "id": "7",
+      "name": "HP Pavilion",
+      "category": "laptop",
+      "price": 35750,
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=400&q=50&fm=webp",
+      "features": {
+        "color": "Black",
+        "storage": "512GB",
+        "battery": "10hrs"
+      },
+      "seller": {
+        "name": "Kiran",
+        "phone": "9234567890",
+        "email": "kiran@gmail.com"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Lenovo ThinkPad",
+      "category": "laptop",
+      "price": 85850,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?w=400&q=50&fm=webp",
+      "features": {
+        "color": "Black",
+        "storage": "1TB",
+        "battery": "15hrs"
+      },
+      "seller": {
+        "name": "Manoj",
+        "phone": "9345678901",
+        "email": "manoj@gmail.com"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Wooden Sofa Set",
+      "category": "furniture",
+      "price": 9450,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&q=50&fm=webp",
+      "features": {
+        "material": "Teak Wood",
+        "seating": "3+1+1",
+        "color": "Brown"
+      },
+      "seller": {
+        "name": "Ramesh",
+        "phone": "9876501234",
+        "email": "ramesh@gmail.com"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Dining Table Set",
+      "category": "furniture",
+      "price": 3000,
+      "rating": 4.3,
+      "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=400&q=50&fm=webp",
+      "features": {
+        "material": "Wood",
+        "seating": "6 Seater",
+        "color": "Dark Brown"
+      },
+      "seller": {
+        "name": "Sunil",
+        "phone": "9765432109",
+        "email": "sunil@gmail.com"
+      }
+    },
+    {
+      "id": "11",
+      "name": "Office Chair",
+      "category": "furniture",
+      "price": 1200,
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=400&q=50&fm=webp",
+      "features": {
+        "material": "Mesh",
+        "adjustable": "Yes",
+        "color": "Black"
+      },
+      "seller": {
+        "name": "Deepak",
+        "phone": "9654321870",
+        "email": "deepak@gmail.com"
+      }
+    },
+    {
+      "id": "12",
+      "name": "Queen Size Bed",
+      "category": "furniture",
+      "price": 6000,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=400&q=50&fm=webp",
+      "features": {
+        "material": "Engineered Wood",
+        "size": "Queen",
+        "color": "Walnut"
+      },
+      "seller": {
+        "name": "Mahesh",
+        "phone": "9543216780",
+        "email": "mahesh@gmail.com"
+      }
+    },
+    {
+      "id": "13",
+      "name": "Men's Casual Shirt",
+      "category": "fashion",
+      "price": 400,
+      "rating": 4.2,
+      "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=400&q=50&fm=webp",
+      "features": {
+        "size": "M, L, XL",
+        "fabric": "Cotton",
+        "color": "Blue"
+      },
+      "seller": {
+        "name": "Ankit",
+        "phone": "9123451234",
+        "email": "ankit@gmail.com"
+      }
+    },
+    {
+      "id": "14",
+      "name": "Formal Shirts",
+      "category": "fashion",
+      "price": 350,
+      "rating": 4.4,
+      "image": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg",
+      "features": {
+        "size": "S, M, L",
+        "fabric": "Rayon",
+        "color": "Red"
+      },
+      "seller": {
+        "name": "Pooja",
+        "phone": "9988776655",
+        "email": "pooja@gmail.com"
+      }
+    },
+    {
+      "id": "15",
+      "name": "Running Shoes",
+      "category": "fashion",
+      "price": 1200,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&q=50&fm=webp",
+      "features": {
+        "size": "7, 8, 9, 10",
+        "material": "Mesh",
+        "color": "White"
+      },
+      "seller": {
+        "name": "Vivek",
+        "phone": "9871234560",
+        "email": "vivek@gmail.com"
+      }
+    },
+    {
+      "id": "16",
+      "name": "Leather Handbag",
+      "category": "fashion",
+      "price": 950,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=400&q=50&fm=webp",
+      "features": {
+        "material": "Leather",
+        "color": "Brown",
+        "type": "Shoulder Bag"
+      },
+      "seller": {
+        "name": "Neha",
+        "phone": "9765123456",
+        "email": "neha@gmail.com"
+      }
+    },
+    {
+      "id": "17",
+      "name": "Sony WH-1000XM5 Headset",
+      "category": "electronics",
+      "price": 399,
+      "rating": 4.8,
+      "image": "https://cdn.pixabay.com/photo/2018/09/17/14/27/earpods-3683983_640.jpg",
+      "features": {
+        "type": "Over-Ear",
+        "wireless": "Yes",
+        "noise_cancellation": "Active",
+        "battery": "30 Hours",
+        "color": "Black"
+      },
+      "seller": {
+        "name": "Rohit",
+        "phone": "9876543212",
+        "email": "rohit@gmail.com"
+      }
+    },
+    {
+      "id": "18",
+      "name": "Sony Soundbar",
+      "category": "electronics",
+      "price": 3500,
+      "rating": 4.2,
+      "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=400&fit=crop",
+      "features": {
+        "power": "300W",
+        "connectivity": "Bluetooth, HDMI",
+        "color": "Black"
+      },
+      "seller": {
+        "name": "Meena",
+        "phone": "9988776654",
+        "email": "meena@gmail.com"
+      }
+    },
+    {
+      "id": "19",
+      "name": "Canon DSLR Camera",
+      "category": "electronics",
+      "price": 40900,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&fit=crop",
+      "features": {
+        "megapixels": "24MP",
+        "lens": "18-55mm",
+        "color": "Black"
+      },
+      "seller": {
+        "name": "Suresh",
+        "phone": "9765432102",
+        "email": "suresh@gmail.com"
+      }
+    },
+    {
+      "id": "20",
+      "name": "Apple AirPods Pro",
+      "category": "electronics",
+      "price": 2249,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=400&fit=crop",
+      "features": {
+        "wireless": "Yes",
+        "noise_cancellation": "Active",
+        "color": "White"
+      },
+      "seller": {
+        "name": "Nikhil",
+        "phone": "9876543211",
+        "email": "nikhil@gmail.com"
+      }
+    },
+    {
+      "id": "1774590464092",
+      "name": "samsung galaxy",
+      "price": 5000,
+      "category": "mobile",
+      "description": "iedhwidijij",
+      "image": "https://www.bing.com/images/search?view=detailV2&ccid=tqnrdoCm&id=D2F9B5F26DFB81067CC3FE5A8B6B30643E782CAB&thid=OIP.tqnrdoCmPjMiOveNxGuFXAHaEK&mediaurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKVwjGqKtGFg%2Fmaxresdefault.jpg&exph=720&expw=1280&q=samsung+s25+ultra&form=IRPRST&ck=FFD6A58DFD74A7DB74CCBB0D237557A5&selectedindex=1&itb=0&cw=1375&ch=659&ajaxhist=0&ajaxserp=0&vt=0&sim=11&mid=D2F9B5F26DFB81067CC3D2F9B5F26DFB81067CC3",
+      "rating": 0,
+      "features": {
+        "ram": "8",
+        "storage": "256",
+        "camera": "48",
+        "battery": "4000"
+      },
+      "seller": {
+        "name": "samsung point",
+        "phone": "9856587899",
+        "email": "shop@123",
+        "location": "Pune"
+      }
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
